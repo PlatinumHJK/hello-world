@@ -1,1 +1,9 @@
 # hello-world
+
+/// INSTRUCTIONS FOR "HELLO-WORLD"
+
+1: TYPE "hello-world"
+2: PROCESS COMPLETE
+
+
+/// END OF INSTRUCTIONS
